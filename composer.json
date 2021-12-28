@@ -1,0 +1,8 @@
+{
+    "name": "aanshievangeline/laravel-js-localization",
+    "description": "This package will helpful to create i18n json bundle with Lravel localization",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
